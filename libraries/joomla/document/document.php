@@ -69,7 +69,7 @@ class JDocument
 	 *
 	 * @var    string
 	 */
-	public $_generator = 'Joomla! - Open Source Content Management';
+	public $_generator = 'Joomla Spark - Open Source Web Publishing Platform';
 
 	/**
 	 * Document modified date
